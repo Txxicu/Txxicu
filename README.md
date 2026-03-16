@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Txxicu/Txxicu/blob/main/lol.png">
+  <img src="https://raw.githubusercontent.com/Txxicu/Txxicu/main/lol.png" width="100%" height="400">
 </p>
 
 ### 🌐 Socials
