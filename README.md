@@ -1,4 +1,6 @@
-## ![Header](https://github.com/Txxicu/Txxicu/blob/main/lol.png)
+<p align="center">
+  <img src="https://github.com/Txxicu/Txxicu/blob/main/lol.png">
+</p>
 
 ### 🌐 Socials
 
