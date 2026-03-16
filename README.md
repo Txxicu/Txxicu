@@ -1,4 +1,4 @@
-## ![Header](https://github.com/Txxicu/Txxicu/blob/main/65d5513fb7ee2864ae53007e1b0d3c74573d57ba.jpg)
+## ![Header](https://github.com/Txxicu/Txxicu/blob/main/photo.png)
 
 ### 🌐 Socials
 
