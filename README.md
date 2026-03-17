@@ -22,10 +22,21 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Godot-Engine-blue?style=for-the-badge&logo=godot-engine">
-<img src="https://img.shields.io/badge/Python-Code-yellow?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/JavaScript-Code-orange?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/PHP-Code-purple?style=for-the-badge&logo=php">
+<a href="https://godotengine.org" target="_blank">
+  <img src="https://img.shields.io/badge/Godot-Engine-blue?style=for-the-badge&logo=godot-engine">
+</a>
+
+<a href="https://www.python.org" target="_blank">
+  <img src="https://img.shields.io/badge/Python-Code-yellow?style=for-the-badge&logo=python">
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-Code-orange?style=for-the-badge&logo=javascript">
+</a>
+
+<a href="https://www.php.net" target="_blank">
+  <img src="https://img.shields.io/badge/PHP-Code-purple?style=for-the-badge&logo=php">
+</a>
 
 </p>
 
